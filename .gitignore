@@ -1,1 +1,4 @@
 build/cocos2d_libs.xcodeproj/xcuserdata/
+bin/
+gen/
+cocos/platform/android/java/local.properties
