@@ -23,6 +23,7 @@ THE SOFTWARE.
 ****************************************************************************/
 
 #include "ui/UITextField.h"
+#include "platform/CCFileUtils.h"
 
 NS_CC_BEGIN
 
